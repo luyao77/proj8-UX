@@ -1,6 +1,6 @@
 # Project 8: User interface for uthenticated brevet time calculator service
 
-##Contact
+## Contact
 * Luyao Wang
 * luyao@uoregon.edu
 
